@@ -1,16 +1,15 @@
 # macropad
-a macropad! Yet to get the stuff from hackclub as the form is down.
+a macropad! helps with niri shortcuts etc...
 
 <img width="931" height="863" alt="CAD drawing 1" src="https://github.com/user-attachments/assets/19128846-4217-42cc-8453-3f85fb64ef93" />
 
 ## shell:
 - made of abs plastic, constructed with 2 parts, the base and the lid and 4x m3 screws
 - onshape document: https://cad.onshape.com/documents/8ea4270e3df64d720bc8c49e/w/e0b07a3a483165cebf54e193/e/cd51b0c8f39a18b2551e130c
-<img width="940" height="815" alt="image" src="https://github.com/user-attachments/assets/70f6e1ea-3062-41e0-b7cc-a59f7b65b728" />
-<img width="891" height="826" alt="image" src="https://github.com/user-attachments/assets/9dd6e2a4-9131-4bd5-9e4d-2e7a9fd1b726" />
+<img width="906" height="827" alt="image" src="https://github.com/user-attachments/assets/95b7dbb0-8504-4498-b3f4-621553e57513" />
 
-### NOTE:
-- the pcb in the above 2 images is shifted a little to the right and a litle to the right, it will all fit.
+
+
 
 ## PCB:
 - designed in kicad
