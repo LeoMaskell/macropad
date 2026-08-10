@@ -7,6 +7,8 @@ a macropad! helps with niri shortcuts etc...
 - made of abs plastic, constructed with 2 parts, the base and the lid and 4x m3 screws
 - onshape document: https://cad.onshape.com/documents/8ea4270e3df64d720bc8c49e/w/e0b07a3a483165cebf54e193/e/cd51b0c8f39a18b2551e130c
 <img width="906" height="827" alt="image" src="https://github.com/user-attachments/assets/95b7dbb0-8504-4498-b3f4-621553e57513" />
+<img width="397" height="220" alt="image" src="https://github.com/user-attachments/assets/4119c7dd-8f46-4796-8d52-812669d8443d" />
+<img width="294" height="283" alt="image" src="https://github.com/user-attachments/assets/a851c5cc-2f4e-4373-a154-6640f1f54afb" />
 
 
 
