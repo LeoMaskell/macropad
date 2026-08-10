@@ -9,6 +9,8 @@ a macropad! helps with niri shortcuts etc...
 <img width="906" height="827" alt="image" src="https://github.com/user-attachments/assets/95b7dbb0-8504-4498-b3f4-621553e57513" />
 <img width="397" height="220" alt="image" src="https://github.com/user-attachments/assets/4119c7dd-8f46-4796-8d52-812669d8443d" />
 <img width="294" height="283" alt="image" src="https://github.com/user-attachments/assets/a851c5cc-2f4e-4373-a154-6640f1f54afb" />
+<img width="790" height="712" alt="image" src="https://github.com/user-attachments/assets/9e747b88-02ff-42a7-8f77-a04d51fcfef6" />
+<img width="1550" height="871" alt="image" src="https://github.com/user-attachments/assets/c5b48b60-e284-4ba4-80b9-9adc600041f0" />
 
 
 
