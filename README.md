@@ -6,7 +6,11 @@ a macropad! Yet to get the stuff from hackclub as the form is down.
 ## shell:
 - made of abs plastic, constructed with 2 parts, the base and the lid and 4x m3 screws
 - onshape document: https://cad.onshape.com/documents/8ea4270e3df64d720bc8c49e/w/e0b07a3a483165cebf54e193/e/cd51b0c8f39a18b2551e130c
+<img width="940" height="815" alt="image" src="https://github.com/user-attachments/assets/70f6e1ea-3062-41e0-b7cc-a59f7b65b728" />
+<img width="891" height="826" alt="image" src="https://github.com/user-attachments/assets/9dd6e2a4-9131-4bd5-9e4d-2e7a9fd1b726" />
 
+### NOTE:
+- the pcb in the above 2 images is shifted a little to the right and a litle to the right, it will all fit.
 
 ## PCB:
 - designed in kicad
